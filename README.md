@@ -32,10 +32,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My experience with PHP can't be competed with...
 
-[![Twitter](https://img.shields.io/twitter/follow/NairMaanas?style=social)](https://twitter.com/NairMaanas)
-
-[![GitHub](https://img.shields.io/github/followers/MaanasNair?label=follow&style=social)](https://github.com/MaanasNair)
-
+[![Twitter](https://img.shields.io/twitter/follow/NairMaanas?style=social)](https://twitter.com/NairMaanas)     
+[![GitHub](https://img.shields.io/github/followers/MaanasNair?label=follow&style=social)](https://github.com/MaanasNair)     
 [![Website](https://img.shields.io/badge/PortfolioWebsite-maanasnair.in-2648ff?style=flat-square&logo=google-chrome)](https://maanasnair.in/)
 
 
