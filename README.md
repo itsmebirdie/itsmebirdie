@@ -53,7 +53,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaanasNair&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
 </a>
 <a href="https://github.com/MaanasNair/ssql-shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaanasNair&repo=ssql-shop&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaanasNair&repo=FileManager&theme=dark" />
 
 </a>
 <a href="https://github.com/MaanasNair/SocialMediaWebsite">
