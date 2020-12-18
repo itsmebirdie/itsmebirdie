@@ -47,17 +47,17 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>    
 
 <a href="https://github.com/MaanasNair">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaanasNair&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaanasNair&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/MaanasNair">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaanasNair&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
 </a>
 <a href="https://github.com/MaanasNair/ssql-shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaanasNair&repo=ssql-shop&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaanasNair&repo=ssql-shop&theme=dark" />
 
 </a>
 <a href="https://github.com/MaanasNair/SocialMediaWebsite">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaanasNair&repo=SocialMediaWebsite&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaanasNair&repo=SocialMediaWebsite&theme=dark" />
 </a>
 
 <div align="center">
