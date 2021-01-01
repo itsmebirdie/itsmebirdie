@@ -44,9 +44,9 @@
 <p><a href="https://www.buymeacoffee.com/itsmebirdie"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itsmebirdie" /></a></p><br><br><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maanasnair&show_icons=true&locale=en&layout=compact" alt="maanasnair" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maanasnair&show_icons=true&locale=en&layout=compact" alt="maanasnair" /></p><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maanasnair&show_icons=true&locale=en" alt="maanasnair" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maanasnair&show_icons=true&locale=en" alt="maanasnair" /></p><br><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maanasnair&" alt="maanasnair" /></p>
 
