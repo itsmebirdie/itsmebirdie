@@ -15,15 +15,15 @@
 
 - 🤝 I’m looking for help with **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://maanasnair.in/works](https://maanasnair.in/works)
+- 👨‍💻 All of my projects are available at [MaanasNair.in/works](https://maanasnair.in/works)
 
-- 📝 I regularly write articles on [https://blog.maanasnair.in](https://blog.maanasnair.in)
+- 📝 I regularly write articles on [Blog.MaanasNair.in](https://blog.maanasnair.in)
 
 - 💬 Ask me about **PHP, MySQL, Flutter and Python**
 
 - 📫 How to reach me **hello@maanasnair.in**
 
-- 📄 Know about my experiences [https://maanasnair.in](https://maanasnair.in)
+- 📄 Know about my experiences [MaanasNair.in](https://maanasnair.in)
 
 - ⚡ Fun fact **"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler**
 
