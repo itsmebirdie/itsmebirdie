@@ -32,7 +32,7 @@
 <a href="https://twitter.com/nairmaanas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nairmaanas" height="30" width="40" /></a>
 <a href="https://fb.com/maanas.nair.50" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maanas.nair.50" height="30" width="40" /></a>
 <a href="https://instagram.com/itsmebirdie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="itsmebirdie" height="30" width="40" /></a>
-<a href="https://discord.gg/itsmebirdie#4557" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="itsmebirdie#4557" height="30" width="40" /></a>
+<a href="https://discord.gg/users/706839448620498965" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="itsmebirdie#4557" height="30" width="40" /></a>
 <a href="/https://maanasnair.in/feed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://maanasnair.in/feed/" height="30" width="40" /></a>
 </p>
 
