@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://maanasnair.in/trophies"><img src="https://github-profile-trophy.vercel.app/?username=maanasnair" alt="maanasnair" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nairmaanas" target="blank"><img src="https://img.shields.io/twitter/follow/nairmaanas?logo=twitter&style=for-the-badge" alt="nairmaanas" /></a> </p>
+<p align="left"> <a href="https://twitter.com/itsmebirdi" target="blank"><img src="https://img.shields.io/twitter/follow/itsmebirdi?logo=twitter&style=for-the-badge" alt="itsmebirdi" /></a> </p>
 
 - 🔭 I’m currently working on [Vokog](https://mart.vokog.com/source-github)
 
