@@ -1,17 +1,17 @@
 <h1 align="center">Hola 👋, I'm Birdie</h1>
 <h3 align="center">The Professional Dumbass</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maanasnair&label=Profile%20views&color=0e75b6&style=flat" alt="maanasnair" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmebirdie&label=Profile%20views&color=0e75b6&style=flat" alt="itsmebirdie" /> </p>
 
-<p align="left"> <a href="https://maanasnair.in/trophies"><img src="https://github-profile-trophy.vercel.app/?username=maanasnair" alt="maanasnair" /></a> </p>
+<p align="left"> <a href="https://maanasnair.in/trophies"><img src="https://github-profile-trophy.vercel.app/?username=itsmebirde" alt="itsmebirdie" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/itsmebirdi" target="blank"><img src="https://img.shields.io/twitter/follow/itsmebirdi?logo=twitter&style=for-the-badge" alt="itsmebirdi" /></a> </p>
 
-- 🔭 I’m currently working on [Vokog](https://mart.vokog.com/source-github)
+- 🔭 I’m currently working on [Vokog](https://vokog.com)
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👯 I’m looking to collaborate on [my own portfolio](https://github.com/MaanasNair/MaanasNair.github.io)
+- 👯 I’m looking to collaborate on [my own portfolio](https://github.com/)
 
 - 🤝 I’m looking for help with **ReactJS**
 
@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nairmaanas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nairmaanas" height="30" width="40" /></a>
+<a href="https://twitter.com/itsmebirdi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nairmaanas" height="30" width="40" /></a>
 <a href="https://fb.com/maanas.nair.50" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maanas.nair.50" height="30" width="40" /></a>
 <a href="https://instagram.com/itsmebirdie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="itsmebirdie" height="30" width="40" /></a>
 <a href="https://discord.com/users/706839448620498965" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="itsmebirdie#4557" height="30" width="40" /></a>
@@ -44,9 +44,9 @@
 <p><a href="https://www.buymeacoffee.com/itsmebirdie"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itsmebirdie" /></a></p><br><br><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maanasnair&show_icons=true&locale=en&layout=compact" alt="maanasnair" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmebirdie&show_icons=true&locale=en&layout=compact" alt="itsmebirdie" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maanasnair&show_icons=true&locale=en" alt="maanasnair" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmebirdie&show_icons=true&locale=en" alt="itsmebirdie" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maanasnair&" alt="maanasnair" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmebirdie&" alt="itsmebirdie" /></p>
 
