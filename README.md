@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmebirdie&label=Profile%20views&color=0e75b6&style=flat" alt="itsmebirdie" /> </p>
 
-<p align="left"> <a href="https://maanasnair.in/trophies"><img src="https://github-profile-trophy.vercel.app/?username=itsmebirde" alt="itsmebirdie" /></a> </p>
+<p align="left"> <a href="https://maanasnair.in/trophies"><img src="https://github-profile-trophy.vercel.app/?username=itsmebirdie" alt="itsmebirdie" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/itsmebirdi" target="blank"><img src="https://img.shields.io/twitter/follow/itsmebirdi?logo=twitter&style=for-the-badge" alt="itsmebirdi" /></a> </p>
 
