@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm Maanas Nair</h1>
+<h1 align="center">Hola 👋, I'm Birdie</h1>
 <h3 align="center">The Professional Dumbass</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maanasnair&label=Profile%20views&color=0e75b6&style=flat" alt="maanasnair" /> </p>
