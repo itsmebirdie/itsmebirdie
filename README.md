@@ -82,6 +82,9 @@
 <h3 align="center">GitHub Trophies</h3>
 <p align="center"> <a href="https://maanasnair.in/trophies"><img src="https://github-profile-trophy.vercel.app/?username=itsmebirdie&column=3&theme=onedark" alt="itsmebirdie" /></a> </p>
 
+[Contribution Graph](https://activity-graph.herokuapp.com/graph?username=itsmebirdie&theme=xcode)
+  
+  
 [website]: https://thebirdie.codes
 [instagram]: https://www.instagram.com/itsmebirdie
 [twitter]: https://twitter.com/itsmebirdi
