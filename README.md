@@ -80,7 +80,7 @@
 <br>
 <br>
 <h3 align="center">Achievements</h3>
-<p align="center"> <a href="https://maanasnair.in/trophies"><img src="https://github-profile-trophy.vercel.app/?username=itsmebirdie&column=7&theme=onedark" alt="itsmebirdie" /></a> </p>
+<p align="center"> <a href="https://maanasnair.in/trophies"><img src="https://github-profile-trophy.vercel.app/?username=itsmebirdie&column=3&theme=onedark" alt="itsmebirdie" /></a> </p>
 
 [website]: https://thebirdie.codes
 [instagram]: https://www.instagram.com/itsmebirdie
