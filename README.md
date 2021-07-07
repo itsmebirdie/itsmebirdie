@@ -70,20 +70,13 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmebirdie&theme=react&line_height=10&hide=css"/>
     </a> -->
   <br>
-  
-  <br>
-  <br>
+  <br><br>
   <a>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmebirdie&theme=react"/>
   </a>
 </div
   
-<br/>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br>
 
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=itsmebirdie&theme=xcode)
   
