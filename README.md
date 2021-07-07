@@ -7,15 +7,14 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ✌ Inspiration: Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
----
+<!-- --- -->
 
 
 
-### Playing on Spotify
+<!-- ### Playing on Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c76b05125q85z0jpxo7eotyxw&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=c76b05125q85z0jpxo7eotyxw&redirect=true)
 
----
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=itsmebirdie&repo=itsmebirdie&countColorcountColor&countColor=%237B1E7B"/>
 
@@ -28,7 +27,6 @@
 <a href="https://thebirdie.codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://maanasnair.in/feed/" height="30" width="40" /></a>
 </p>
 
----
 
 ### Languages and Tools 🛠 
 
@@ -56,7 +54,7 @@
 
 <br/>
 
----
+
 
 <br/>
 
@@ -64,12 +62,12 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsmebirdie&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=33.5" />
-    </a>
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsmebirdie&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=33.5" /> -->
+<!--     </a> -->
 <!--     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmebirdie&theme=react&line_height=10&hide=css"/>
     </a> -->
-  <br>
+<!--   <br>
   <br><br>
   <a>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmebirdie&theme=react"/>
@@ -78,7 +76,7 @@
   
 <br><br>
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=itsmebirdie&theme=xcode)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=itsmebirdie&theme=xcode) -->
   
   
 [website]: https://thebirdie.codes
