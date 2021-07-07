@@ -1,7 +1,5 @@
 # Hi there, I'm Birdie 👋
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 ## I'm a student and a professional dumbass
 
 - 👨‍💻 I'm now taking a break from coding and start focusing on studies.
