@@ -1,4 +1,4 @@
-# Hi there, I'm Birdie <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Birdie 👋
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -11,9 +11,9 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
+
+### Playing on Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c76b05125q85z0jpxo7eotyxw&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=c76b05125q85z0jpxo7eotyxw&redirect=true)
 
@@ -68,9 +68,12 @@
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsmebirdie&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=33.5" />
     </a>
-    <a href="">
+<!--     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmebirdie&theme=react&line_height=10&hide=css"/>
-    </a>
+    </a> -->
+  <a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmebirdie&theme=react"/>
+  </a>
 </div
   
 <br/>
@@ -79,8 +82,6 @@
 <br>
 <br>
 <br>
-<h3 align="center">GitHub Trophies</h3>
-<p align="center"> <a href="https://maanasnair.in/trophies"><img src="https://github-profile-trophy.vercel.app/?username=itsmebirdie&column=3&theme=onedark" alt="itsmebirdie" /></a> </p>
 
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=itsmebirdie&theme=xcode)
   
