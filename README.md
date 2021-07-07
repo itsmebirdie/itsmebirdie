@@ -25,7 +25,7 @@
 <a href="https://fb.com/maanas.nair.50" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maanas.nair.50" height="30" width="40" /></a>
 <a href="https://instagram.com/itsmebirdie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="itsmebirdie" height="30" width="40" /></a>
 <a href="https://discord.com/users/706839448620498965" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="itsmebirdie#4557" height="30" width="40" /></a>
-<a href="/https://maanasnair.in/feed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://maanasnair.in/feed/" height="30" width="40" /></a>
+<a href="https://thebirdie.codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://maanasnair.in/feed/" height="30" width="40" /></a>
 </p>
 
 ---
@@ -69,6 +69,10 @@
 <!--     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmebirdie&theme=react&line_height=10&hide=css"/>
     </a> -->
+  <br>
+  
+  <br>
+  <br>
   <a>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmebirdie&theme=react"/>
   </a>
