@@ -3,7 +3,7 @@
 ## I'm a student and a professional dumbass
 
 - 👨‍💻 I'm now taking a break from coding and start focusing on studies.
-- 📚 I’m currently learning NodeJS and ReactJS.
+- 📚 I’m currently learning NodeJS and NextJS.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ✌ Inspiration: Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
