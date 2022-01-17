@@ -3,7 +3,7 @@
 ## I'm a student and a professional dumbass
 
 - 👨‍💻 I'm now taking a break from coding and start focusing on studies.
-- 📚 I’m currently learning NodeJS and NextJS.
+- 📚 I’m currently grinding Dart. Will resume learning NodeJS soon.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ✌ Inspiration: In open source, we feel strongly that to really do something well, you have to get a lot of people involved. - **Linus Torvalds**
 
