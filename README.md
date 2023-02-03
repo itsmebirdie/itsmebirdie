@@ -1,3 +1,1 @@
-literally fuck my life
-
-discord: birdie#8448
+starting again the journey in the computer world!
