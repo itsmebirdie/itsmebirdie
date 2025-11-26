@@ -1,4 +1,4 @@
-ringa ringa roses
-pocket full of posies
-atishoo atishoo
+ringa ringa roses\
+pocket full of posies\
+atishoo atishoo\
 we all fall down
